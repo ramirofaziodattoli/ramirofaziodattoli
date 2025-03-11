@@ -1,4 +1,4 @@
-⪩༏⪨
 
-Ssr Frontend Developer / Backend Developer
+## Ssr Frontend Developer / Backend Developer
 
+#### Perdi mi cuenta anterior / Lost my old account :(
