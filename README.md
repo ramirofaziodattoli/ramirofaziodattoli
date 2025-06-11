@@ -8,15 +8,11 @@
 
 ---
 
-### 👨‍💻 About me / Sobre mí
+### 👨‍💻 About me
 
 ✅ I’m a developer with 5+ years of experience who found his true passion in code.  
 I specialize in **Frontend** but have a **Full Stack** background, working across various environments from team projects to freelance roles.  
 I aim to keep learning advanced techniques while contributing my skills to cutting-edge companies.
-
-✅ Soy un desarrollador con más de 5 años de experiencia y una verdadera pasión por el código.  
-Aunque me especializo en **Frontend**, tengo un perfil **Full Stack**, lo que me permite adaptarme a diferentes entornos y tecnologías.  
-Busco un equipo desafiante donde seguir creciendo profesionalmente.
 
 ---
 
