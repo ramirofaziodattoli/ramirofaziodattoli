@@ -19,7 +19,7 @@ I aim to keep learning advanced techniques while contributing my skills to cutti
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,mongodb,postgresql,figma,vercel,docker,git,nginx" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vite,tailwind,redux,nodejs,express,nestjs,supabase,mongodb,mysql,postgresql,prisma,sequelize,vercel,aws,firebase,docker,nginx,linux,git,github,gitlab,figma,notion,npm&perline=10" />
 </p>
 
 ---
