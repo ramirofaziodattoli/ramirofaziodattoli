@@ -1,6 +1,7 @@
 <!-- Encabezado -->
 <h1 align="center">Hi there, I'm Ramiro Fazio Dattoli 👋</h1>
 <h3 align="center">SSR Developer</h3>
+<h5 align="center">Lost my old account :(</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=00Passionate+about+clean+code+%26+modern+UI;Adapting+fast+to+any+stack;Open+to+new+challenges!" alt="Typing SVG" />
