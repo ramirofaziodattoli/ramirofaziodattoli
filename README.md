@@ -35,7 +35,7 @@ I aim to keep learning advanced techniques while contributing my skills to cutti
 
 ### 🚀 Featured Projects
 
-- 🕺 [DJ Presskit](https://dj-presskit.com) – Web personalizadas para DJs.  
+- 🕺 [DJ Presskit](https://dj-presskit.com) – Profesionaliza tu Marca.  
 
 ---
 
