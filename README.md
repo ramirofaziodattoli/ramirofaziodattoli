@@ -43,13 +43,13 @@ I aim to keep learning advanced techniques while contributing my skills to cutti
 
 ### 📬 Contact
 
-<p align="center">
-- [R STUDIOS \ PORTFOLIO](https://rstudios.ar).
+- [R STUDIOS\PORTFOLIO](https://rstudios.ar).
   
+<p align="center">
   <a href="mailto:ramifazio@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ramirofaziodattoli"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-*Last updated: 10/06/2025*
+*Last updated: 22/08/2025*
